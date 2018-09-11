@@ -2,4 +2,4 @@ numpy
 tensorflow
 keras
 https://github.com/csxeba/grund
-pycma
+cma
