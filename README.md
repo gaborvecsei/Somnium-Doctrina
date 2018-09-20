@@ -10,7 +10,7 @@ The environment, which we are trying to learn is Match from grund.
 To access it, grund has to be installed:
 
 ```
-pip install https://github.com/csxeba/grund
+pip3 install https://github.com/csxeba/grund
 ```
 
 A minimally configured Match environment can be set up and used to produce random states and rewards:
