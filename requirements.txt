@@ -1,5 +1,5 @@
 numpy
 tensorflow
 keras
-https://github.com/csxeba/grund
+git+https://github.com/csxeba/grund.git#egg=grund
 cma
