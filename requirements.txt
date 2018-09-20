@@ -1,0 +1,5 @@
+numpy
+tensorflow
+keras
+git+https://github.com/csxeba/grund.git#egg=grund
+cma
